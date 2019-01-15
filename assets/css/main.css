@@ -86,6 +86,21 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
+	.tech_logos {
+		width: 15%;
+		height: 15%;
+	}
+
+	.bigger_tech_logo {
+		width: 30%;
+		height: 30%;
+	}
+
+	.smaller_tech_logo {
+		width: 11%;
+		height: 11%;
+	}
+
 	body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 		-moz-animation: none !important;
 		-webkit-animation: none !important;
@@ -1900,6 +1915,7 @@ input, select, textarea {
 		.icon > .label {
 			display: none;
 		}
+
 
 /* Box */
 
