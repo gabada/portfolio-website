@@ -300,6 +300,7 @@ input, select, textarea {
 
 		.row > .col-4 {
 			width: 33.3333333333%;
+			margin-bottom: 10em;
 		}
 
 		.row > .off-4 {
@@ -1687,7 +1688,7 @@ input, select, textarea {
 		input[type="reset"].style1,
 		button.style1,
 		.button.style1 {
-			background: #e97770 url("images/overlay.png");
+			background: #e97770;
 			color: #fff;
 		}
 
@@ -1738,7 +1739,7 @@ input, select, textarea {
 		input[type="reset"].style3,
 		button.style3,
 		.button.style3 {
-			background: #2f333b url("images/overlay.png");
+			background: #2f333b;
 			color: #fff;
 		}
 
@@ -1874,7 +1875,7 @@ input, select, textarea {
 			.feature-list h3:before {
 				display: block;
 				color: #fff;
-				background: #2f333b url("images/overlay.png");
+				background: #2f333b;
 				border-radius: 2.5em;
 				text-align: center;
 				width: 2.5em;
@@ -2003,13 +2004,13 @@ input, select, textarea {
 			}
 
 		.wrapper.style1 {
-			background: #e97770 url("images/overlay.png");
+			background: #e97770;
 			color: #eee;
 			color: rgba(255, 255, 255, 0.75);
 		}
 
 			.wrapper.style1 .title {
-				background: #e97770 url("images/overlay.png");
+				background: #e97770;
 				color: #fff;
 			}
 
@@ -2027,12 +2028,12 @@ input, select, textarea {
 			}
 
 		.wrapper.style3 {
-			background: #f3f3f3 url("images/overlay.png");
+			background: #e97770;
 		}
 
 			.wrapper.style3 .title {
-				background: #f3f3f3 url("images/overlay.png");
-				color: #484d55;
+				background: #e97770;
+				color: #fff;
 			}
 
 			.wrapper.style3 .image {
