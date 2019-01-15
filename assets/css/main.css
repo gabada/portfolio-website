@@ -2046,7 +2046,7 @@ input, select, textarea {
 		justify-content: center;
 		position: relative;
 		height: 24em;
-		background: url("../../images/banner.jpg") center center;
+		background: url("../../images/gct.jpg") center center;
 		background-size: cover;
 		padding: 0;
 	}
@@ -2079,17 +2079,17 @@ input, select, textarea {
 			text-transform: uppercase;
 			color: #fff;
 			font-size: 2em;
-			letter-spacing: 0.25em;
+			letter-spacing: 0.50em;
 		}
 
 		#logo p {
 			color: #eee;
-			color: rgba(255, 255, 255, 0.5);
+			color: rgb(255, 255, 255);
 			text-transform: uppercase;
 			margin: 1.25em 0 0 0;
 			display: block;
-			letter-spacing: 0.2em;
-			font-size: 0.9em;
+			letter-spacing: 0.3em;
+			font-size: 1.0em;
 		}
 
 /* Nav */
@@ -2429,6 +2429,7 @@ input, select, textarea {
 
 			#logo {
 				margin-top: -0.5em !important;
+				line-height: 2;
 			}
 
 				#logo h1 {
